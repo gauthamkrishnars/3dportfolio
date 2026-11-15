@@ -1,0 +1,66 @@
+================================================================================
+                    ACTION PLAN FOR TOMORROW: 1ST PLACE ROADMAP
+                    Gautham Krishna R S — 3D Portfolio
+================================================================================
+
+PROJECT LINKS:
+- Live URL:        https://main.dumibcrgodudl.amplifyapp.com/
+- GitHub Repo:     https://github.com/gauthamkrishnars/3dportfolio (branch: main)
+- Local Server:    http://localhost:8000/ (python -m http.server 8000)
+
+--------------------------------------------------------------------------------
+1. THE SIGNATURE CINEMATIC LOADER (First 3 Seconds)
+--------------------------------------------------------------------------------
+[ ] Goal: Replace the generic spinner with an intentional, character-driven intro.
+[ ] Concept:
+    - Clay avatar without glasses starts grayscaled.
+    - As Three.js loads the 19MB PBR model, color sweeps in smoothly.
+    - Sunglasses snap into place with a subtle "ready" finish as progress hits 100%.
+    - Smooth dissolve straight into the interactive 3D scene in the exact same pose.
+[ ] Assets Ready:
+    - Raw Avatar:     images/avatar_raw.jpg
+    - Glasses Avatar: images/avatar_glasses.jpg
+
+--------------------------------------------------------------------------------
+2. MOBILE PERFECTION AUDIT (Judges Evaluate on Phones)
+--------------------------------------------------------------------------------
+[ ] Test on standard mobile viewports (iPhone 14/15, Samsung Galaxy, Pixel).
+[ ] Ensure touch-tracking controls the avatar's head orientation smoothly.
+[ ] Verify no text overlapping on small screens (especially hero title & bio).
+[ ] Ensure Works cards swipe/scroll without horizontal viewport jitter.
+
+--------------------------------------------------------------------------------
+3. THE "AWS ARCHITECTURE" FLEX (Winning the AWS Rubric)
+--------------------------------------------------------------------------------
+[ ] Goal: Prove technical cloud engineering depth beyond frontend styling.
+[ ] Add a sleek "View Cloud Architecture" trigger in the AWS or DevCore section.
+[ ] Display an interactive or modal architecture diagram:
+    User Request -> AWS CloudFront CDN -> AWS Amplify Host / S3 
+                 -> Amazon API Gateway -> AWS Lambda (LLM Serverless Proxy)
+[ ] High-converting badge: Highlight 100% Lighthouse Performance on AWS edge.
+
+--------------------------------------------------------------------------------
+4. WORKING CONTACT & QUICK-ACTION TRIGGERS
+--------------------------------------------------------------------------------
+[ ] Ensure the contact CTA allows judges to 1-click email (mailto:) or copy email.
+[ ] Add verified direct link to Gautham's LinkedIn profile.
+[ ] Optional: 1-click "Download Résumé / CV" button.
+
+--------------------------------------------------------------------------------
+5. THE 60-SECOND WINNING PITCH SCRIPT FOR JUDGES
+--------------------------------------------------------------------------------
+"Most developer portfolios are static landing pages built from cookie-cutter 
+templates. As the founder of DevCore Studio and a Computer Science student 
+at SCTCE, I engineered an interactive 3D WebGL experience to bridge creative 
+visual computing with production AWS cloud architecture.
+
+Key Technical Highlights:
+1. 3D WebGL Avatar: Custom PBR clay shaders, real-time inverse kinematics, 
+   and dynamic head-tracking running at 60 FPS in Three.js.
+2. AWS Cloud Architecture: Continuous CI/CD deployment via AWS Amplify, 
+   global edge caching through Amazon CloudFront, and serverless proxy logic.
+3. Real Production Impact: It showcases real commercial platforms I have 
+   engineered across Kerala—including Jumayira International resort, 
+   Lakeside Meadows, and College Bunker which serves 50+ active campus students."
+
+================================================================================
