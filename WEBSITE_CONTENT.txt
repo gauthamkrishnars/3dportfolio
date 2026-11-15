@@ -13,9 +13,9 @@ INSTRUCTIONS FOR EDITING:
 SECTION 1: HEADER & CORNER CHROME (Fixed at corners of the screen)
 ================================================================================
 [TOP_LEFT_NAME]: Gautham Krishna R S
-[TOP_LEFT_SUBTITLE]: Creative Technologist & AWS Builder
+[TOP_LEFT_SUBTITLE]: Founder @DevCore Studio & AWS Builder
 [TOP_RIGHT_BADGE]: AWS SCTCE — 2026
-[BOTTOM_LEFT_TAGLINE]: Code · Art · Cloud
+[BOTTOM_LEFT_TAGLINE]: Code · Art · Coffee
 [RIGHT_EDGE_VERTICAL_TEXT]: Crafted at SCTCE Trivandrum
 [GITHUB_LINK]: https://github.com/gauthamkrishnars/3dportfolio
 
@@ -24,7 +24,7 @@ SECTION 1: HEADER & CORNER CHROME (Fixed at corners of the screen)
 SECTION 2: HERO SECTION (Front Landing Screen under 3D Avatar)
 ================================================================================
 [HERO_TITLE]: About Gautham
-[HERO_BIO]: I'm Gautham — a creative technologist and Computer Science student at SCTCE living where code meets art. I spend my days around full-stack development, creative web interactions, AI systems, and deploying cloud architecture on AWS. Founder of DevCore Studio.
+[HERO_BIO]: I'm Gautham — Founder @DevCore Studio and Computer Science student at SCTCE living where code meets art. I spend my days around full-stack development, creative web interactions, AI systems, and deploying cloud architecture on AWS. Founder of DevCore Studio.
 [SCROLL_CUE]: SCROLL
 
 
@@ -39,7 +39,7 @@ SECTION 3: RÉSUMÉ TIMELINE (Cards that appear as avatar turns on scroll)
 [ROLE]: B.Tech in Computer Science & Engineering
 [POINTS]:
   * Computer Science student at Sree Chitra Thirunal College of Engineering (SCTCE)
-  * Deepening Data Structures & Algorithms, systems design, and Python
+  * Deepening Data Structures & Algorithms, AI, and Python
   * Active member of AWS SCTCE Community
 
 
@@ -48,9 +48,9 @@ SECTION 3: RÉSUMÉ TIMELINE (Cards that appear as avatar turns on scroll)
 [ORGANIZATION]: DevCore Studio · Kerala
 [ROLE]: Founder & Lead Architect
 [POINTS]:
-  * Founder · digital software and client web engineering studio
-  * 5+ production websites shipped across Kerala from concept to live deployment
-  * Clients: Jumayira International, Mahika Homestay, Lakeside Meadows…
+  * Founder & Lead Architect · Directing full-stack web engineering, UI/UX architecture, and cloud deployment across Kerala
+  * Engineered and shipped 5+ bespoke commercial web applications from concept to live production with 100% performance
+  * Delivered high-converting digital platforms for clients including Jumayira International (Kovalam), Lakeside Meadows (Kollam), and Mahika Homestay
 
 
 --- MILESTONE 3: COLLEGE BUNKER ---
@@ -59,14 +59,14 @@ SECTION 3: RÉSUMÉ TIMELINE (Cards that appear as avatar turns on scroll)
 [ROLE]: Creator & Lead Engineer
 [POINTS]:
   * Designed and shipped dedicated attendance and schedule tracking web app (collegebunker.xyz)
-  * 200+ active student users across SCTCE campus departments
+  * 50+ active student users across SCTCE,MBCET and MIC campus departments
   * Integrated real-time timetable radars and bunking margin analytics
 
 
 --- MILESTONE 4: AWS SCTCE COMMUNITY ---
 [PERIOD]: 2026 – Active
 [ORGANIZATION]: AWS SCTCE Community
-[ROLE]: Cloud Builder & Hackathon Finalist
+[ROLE]: Cloud Builder & Hackathon Participant
 [GROUP_HEADING]: AWS Cloud Architecture
 [GROUP_SUBTITLE]: Amplify · CloudFront · S3
 [POINTS]:
@@ -80,40 +80,31 @@ SECTION 4: WORKS SHOWCASE GALLERY (Horizontal Project Cards)
 ================================================================================
 [WORKS_SECTION_TITLE]: Works
 
---- CATEGORY 01: COMMERCIAL SYSTEMS ---
+--- CATEGORY 01: CLIENT PROJECTS ---
 [TAGLINE]: DevCore Studio
-[HIGHLIGHTS_AWARDS]: AWS Builder | 5 Shipped Sites | 100% Performance
+[HIGHLIGHTS_AWARDS]: Real Projects | 5 Shipped Sites | 100% Performance
 [PROJECTS]:
-  1. Jumayira International  [Tag: Global Logistics & Export]
-  2. Mahika Homestay         [Tag: Kerala Tourism & Booking]
-  3. Lakeside Meadows        [Tag: Luxury Eco-Retreat]
-  4. DevCore Studio Hub      [Tag: Client Web Engineering]
+  1. Jumayira International  [Tag: 3-Star Hotel in Kovalam]
+  2. Lakeside Meadows        [Tag: Diamond Homestay in Kollam]
+  3. Mahika Homestay         [Tag: Gold Homestay in Peroorkada]
 
 
---- CATEGORY 02: CAMPUS PRODUCTS ---
-[TAGLINE]: collegebunker.xyz · 200+ Users
-[FOOTER_TECH_TAGS]: Tech: Next.js · TypeScript · CloudFront CDN · AWS Deployed · Product Design
+--- CATEGORY 02: College Bunker ---
+[TAGLINE]: collegebunker.xyz · 50+ Users
+[FOOTER_TECH_TAGS]: Tech: Next.js · TypeScript · CloudFront CDN · Product Design
 [PROJECTS]:
-  1. College Bunker Web App          [Tag: 200+ Active Students]
-  2. Real-Time Attendance Radar      [Tag: SCTCE Timetables]
-  3. Bunking Margin Calculator       [Tag: Academic Utility]
-  4. Department Timetable Engine     [Tag: Automated Parser]
+  1. College Bunker Web App          [Tag: 50+ Active Students]
+  2. Real-Time Attendance Radar      [Tag: Notify Accidental Markings]
+  3. Bunking Margin Calculator       [Tag: Always Hit Attendance Goal]
 
-
---- CATEGORY 03: AI & CLOUD ARCHITECTURE ---
+--- CATEGORY 03: DEVCORE STUDIO ---
 [TAGLINE]: AWS Amplify · Lambda
 [PROJECTS]:
-  1. Gautham.store Platform          [Tag: Serverless AI Hub] (Link: https://gautham.store)
+  1. DevCore Studio                  [Tag: Client Web Engineering]
   2. Secure LLM Proxy Co-Pilot       [Tag: Serverless Function]
 
 
---- CATEGORY 04: CREATIVE EXPERIMENTS ---
-[TAGLINE]: Three.js · WebGL · Audio
-[PROJECTS]:
-  1. Interactive 3D Avatar Engine
-  2. Procedural Clay Shaders
-  3. Web Audio Synthesizer
-  4. Antigravity AI Automation
+
 
 
 ================================================================================
