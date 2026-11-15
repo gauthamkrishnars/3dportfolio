@@ -1,0 +1,121 @@
+================================================================================
+               GAUTHAM KRISHNA R S — 3D PORTFOLIO WEBSITE CONTENT
+================================================================================
+INSTRUCTIONS FOR EDITING:
+1. Edit any text below as you like (titles, descriptions, dates, bullet points).
+2. You can add new points, replace old projects, or change wording.
+3. Save this file when you are done and tell me: 'I have updated WEBSITE_CONTENT.txt'.
+4. I will read your changes and update the website codebase automatically!
+================================================================================
+
+
+================================================================================
+SECTION 1: HEADER & CORNER CHROME (Fixed at corners of the screen)
+================================================================================
+[TOP_LEFT_NAME]: Gautham Krishna R S
+[TOP_LEFT_SUBTITLE]: Creative Technologist & AWS Builder
+[TOP_RIGHT_BADGE]: AWS SCTCE — 2026
+[BOTTOM_LEFT_TAGLINE]: Code · Art · Cloud
+[RIGHT_EDGE_VERTICAL_TEXT]: Crafted at SCTCE Trivandrum
+[GITHUB_LINK]: https://github.com/gauthamkrishnars/3dportfolio
+
+
+================================================================================
+SECTION 2: HERO SECTION (Front Landing Screen under 3D Avatar)
+================================================================================
+[HERO_TITLE]: About Gautham
+[HERO_BIO]: I'm Gautham — a creative technologist and Computer Science student at SCTCE living where code meets art. I spend my days around full-stack development, creative web interactions, AI systems, and deploying cloud architecture on AWS. Founder of DevCore Studio.
+[SCROLL_CUE]: SCROLL
+
+
+================================================================================
+SECTION 3: RÉSUMÉ TIMELINE (Cards that appear as avatar turns on scroll)
+================================================================================
+[SECTION_TITLE]: Résumé
+
+--- MILESTONE 1: SCT COLLEGE OF ENGINEERING ---
+[PERIOD]: 2026 – Present
+[ORGANIZATION]: SCT College of Engineering
+[ROLE]: B.Tech in Computer Science & Engineering
+[POINTS]:
+  * Computer Science student at Sree Chitra Thirunal College of Engineering (SCTCE)
+  * Deepening Data Structures & Algorithms, systems design, and Python
+  * Active member of AWS SCTCE Community
+
+
+--- MILESTONE 2: DEVCORE STUDIO ---
+[PERIOD]: 2026 – Present
+[ORGANIZATION]: DevCore Studio · Kerala
+[ROLE]: Founder & Lead Architect
+[POINTS]:
+  * Founder · digital software and client web engineering studio
+  * 5+ production websites shipped across Kerala from concept to live deployment
+  * Clients: Jumayira International, Mahika Homestay, Lakeside Meadows…
+
+
+--- MILESTONE 3: COLLEGE BUNKER ---
+[PERIOD]: 2026 – Active
+[ORGANIZATION]: College Bunker
+[ROLE]: Creator & Lead Engineer
+[POINTS]:
+  * Designed and shipped dedicated attendance and schedule tracking web app (collegebunker.xyz)
+  * 200+ active student users across SCTCE campus departments
+  * Integrated real-time timetable radars and bunking margin analytics
+
+
+--- MILESTONE 4: AWS SCTCE COMMUNITY ---
+[PERIOD]: 2026 – Active
+[ORGANIZATION]: AWS SCTCE Community
+[ROLE]: Cloud Builder & Hackathon Finalist
+[GROUP_HEADING]: AWS Cloud Architecture
+[GROUP_SUBTITLE]: Amplify · CloudFront · S3
+[POINTS]:
+  * Edge-deployed CI/CD with AWS Amplify Hosting
+  * Sub-30ms global distribution with CloudFront CDN
+  * Serverless microservices with AWS Lambda & API Gateway
+
+
+================================================================================
+SECTION 4: WORKS SHOWCASE GALLERY (Horizontal Project Cards)
+================================================================================
+[WORKS_SECTION_TITLE]: Works
+
+--- CATEGORY 01: COMMERCIAL SYSTEMS ---
+[TAGLINE]: DevCore Studio
+[HIGHLIGHTS_AWARDS]: AWS Builder | 5 Shipped Sites | 100% Performance
+[PROJECTS]:
+  1. Jumayira International  [Tag: Global Logistics & Export]
+  2. Mahika Homestay         [Tag: Kerala Tourism & Booking]
+  3. Lakeside Meadows        [Tag: Luxury Eco-Retreat]
+  4. DevCore Studio Hub      [Tag: Client Web Engineering]
+
+
+--- CATEGORY 02: CAMPUS PRODUCTS ---
+[TAGLINE]: collegebunker.xyz · 200+ Users
+[FOOTER_TECH_TAGS]: Tech: Next.js · TypeScript · CloudFront CDN · AWS Deployed · Product Design
+[PROJECTS]:
+  1. College Bunker Web App          [Tag: 200+ Active Students]
+  2. Real-Time Attendance Radar      [Tag: SCTCE Timetables]
+  3. Bunking Margin Calculator       [Tag: Academic Utility]
+  4. Department Timetable Engine     [Tag: Automated Parser]
+
+
+--- CATEGORY 03: AI & CLOUD ARCHITECTURE ---
+[TAGLINE]: AWS Amplify · Lambda
+[PROJECTS]:
+  1. Gautham.store Platform          [Tag: Serverless AI Hub] (Link: https://gautham.store)
+  2. Secure LLM Proxy Co-Pilot       [Tag: Serverless Function]
+
+
+--- CATEGORY 04: CREATIVE EXPERIMENTS ---
+[TAGLINE]: Three.js · WebGL · Audio
+[PROJECTS]:
+  1. Interactive 3D Avatar Engine
+  2. Procedural Clay Shaders
+  3. Web Audio Synthesizer
+  4. Antigravity AI Automation
+
+
+================================================================================
+END OF CONTENT FILE
+================================================================================
