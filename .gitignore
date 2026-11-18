@@ -2,9 +2,14 @@
 node_modules/
 package-lock.json
 
-# Local Archives and scratch files
+# Local Archives, scratch files, and planning docs
 _archive/
 *.log
+HOW_TO_ADD_STICKERS_IN_BLENDER.txt
+TOMORROW_PLANS.txt
+PROJECT_CONTEXT.md
+PROJECT_STATE_HANDOFF.md
+WEBSITE_CONTENT.txt
 
 # OS generated files
 .DS_Store

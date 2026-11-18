@@ -1,5 +1,5 @@
 /* ==========================================================================
-   ABOUT GAUTHAM — EXACT SEN BUZY REPLICA ARCHITECTURE
+   ABOUT GAUTHAM - EXACT SEN BUZY REPLICA ARCHITECTURE
    Exact aesthetics: Clay Sage Green, Mansalva Chalk Title,
    Film Grain, Viewfinder Chrome, 3D Sticker Camera Zooms, & Works Grid.
    ========================================================================== */
@@ -462,7 +462,7 @@ body {
 }
 
 .tl-points li::before {
-  content: '—';
+  content: '-';
   position: absolute;
   left: 0;
   color: var(--ink-faint);

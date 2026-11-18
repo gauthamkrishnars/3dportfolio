@@ -1,5 +1,5 @@
 /**
- * ABOUT GAUTHAM — SEN ZHENG CAMERA-ZOOM & 3D STICKER ENGINE
+ * ABOUT GAUTHAM - SEN ZHENG CAMERA-ZOOM & 3D STICKER ENGINE
  * Exact implementation of:
  * 1. Procedural 3D Clay Avatar with 5 Face Stickers.
  * 2. Dynamic Scroll Camera Zoom onto each Face Sticker.
