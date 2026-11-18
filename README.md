@@ -151,6 +151,7 @@ Navigate to `http://localhost:8000/avatar_viewer.html` to inspect the 3D avatar 
 - **College**: SCT College of Engineering (SCTCE), Computer Science & Engineering  
 - **Community**: Active member of AWS SCTCE Community  
 - **GitHub**: [@gauthamkrishnars](https://github.com/gauthamkrishnars)  
+- **LinkedIn**: [@gauthamkrishnars](https://www.linkedin.com/in/gauthamkrishnars/)  
 - **AWS Builder Center**: [@gauthamkrishnars](https://builder.aws.com/community/@gauthamkrishnars)  
 - **DevCore Studio**: [devcorestudio.xyz](https://devcorestudio.xyz/)  
 - **Featured Platform**: [College Bunker (collegebunker.xyz)](https://collegebunker.xyz)
